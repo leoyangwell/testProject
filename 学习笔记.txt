@@ -1,0 +1,26 @@
+meta  设置 是否缓存、页面切换效果、是否允许被IFRMAE包含、自动刷新页面时间  
+
+浮动定位  :fiexd 固定,  背景图片固定 image-attachement:fiexd  
+
+盒子 边框 内边距           （  IE与W3C的区别 ）
+
+样式组合简写 统一 上左下右  顺时针.
+
+布局  居中处理。            （ IE与W3C区别 ） IE 在外层text-aglin:center 设置
+
+某些浏览器默认设置了margin  padding 。 body设置0  （ IE与W3C区别 ）
+
+IE高度小于18PX 高度按18个像素算  , IE需要小于可以 加 overfflow:hidden  （IE与W3C区别）
+
+
+IE8 下面里面的高度超出 外层高度 会自动撑开外面的高度 ，W3C则超出部分则被隐藏了   （IE与W3C区别）
+
+如果  里层DIV 浮动了，那么就不会与外层DIV有适应关系， 需要外层也浮动。        涉及（IE与W3C区别）
+
+所有元素清除margin padding                                                    涉及（IE与W3C区别）
+
+
+
+html5  
+dtd 字符集  都简写了
+
